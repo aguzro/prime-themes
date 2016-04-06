@@ -28,3 +28,7 @@ header a:hover {
 .frase {
 	font-size: 3em;
 }
+.descripcionHeader {
+	font-weight: 100;
+	padding-top: 4%;
+}
