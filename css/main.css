@@ -49,3 +49,39 @@ header a:hover {
 .bgBlancoTrans {
 	background: rgba(255, 255, 255, 0.1);
 }
+.botonHead a {
+	text-decoration: none;
+}
+.botonHead a:hover {
+ 	color: #0dc0c0; 
+}
+
+/* Seccion de iconos 6x2 */
+.seccionIconos i {
+	font-size: 3em;
+}
+.seccionIconos h4 {
+	font-weight: 500;
+	padding-bottom: 2%;
+}
+.seccionIconos p {
+	font-size: 0.8em; 
+}
+.contIconos {
+	padding: 15%;
+}
+ /* MORE FEATURES */
+.moreFeatures {
+	width: 70%;
+	margin: 0 auto;
+	padding-bottom: 2%;
+}
+.moreFeatures p {
+	font-size: 2em;
+	padding-top: 5%;
+}
+.moreFeatures img {
+	width: 100%;
+
+}
+
