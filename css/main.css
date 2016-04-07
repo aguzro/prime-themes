@@ -153,8 +153,16 @@ header a:hover {
 .contact {
 	background-image: url(../img/background/contactus.jpg);
 }
-
-
+.boxForm {
+	background: rgba(255, 255, 255, 0.1);
+	padding: 10px;
+	width: 90%;
+	margin: 1%;
+	border:0;
+}
+.boxMessage {
+	height: 100px;
+}
 
 /* Follow */
 
