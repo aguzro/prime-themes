@@ -49,6 +49,12 @@ header a:hover {
 .bgBlancoTrans {
 	background: rgba(255, 255, 255, 0.1);
 }
+.botonHead a {
+	text-decoration: none;
+}
+.botonHead a:hover {
+ 	color: #0dc0c0; 
+}
 /* Seccion de iconos 6x2 */
 .seccionIconos i {
 	font-size: 3em;
@@ -142,30 +148,27 @@ header a:hover {
 
 /* Customer */
 .circle {
-	width: 30%;
-	height: 30%;
-	border-radius: 0.5%;
+	width: 10%;
+	height: 10%;
+	border-radius: 50%;
 }
-
-
 /* Contact */
 .contact {
 	background-image: url(../img/background/contactus.jpg);
 }
 
-.botonHead a {
-	text-decoration: none;
-}
-.botonHead a:hover {
- 	color: #0dc0c0; 
-}
+
+
+/* Follow */
+
 
 /* Footer */ 
 .bg-black {
 	background-color: #222222;
 }
-.pd-2 {
-	padding: 2%;
+.pd-3 {
+	padding: 3%;
+	font-size: 0.7em;
 }
 
 
