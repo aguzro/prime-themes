@@ -6,7 +6,7 @@ header {
 	background-image: url(../img/background/hero.jpg);
 	background-size: 100%;
 }
-header section {
+.opacity {
 	background: rgba(0, 0, 0, 0.5);
 }
 .pt-2 {
@@ -48,4 +48,55 @@ header a:hover {
 }
 .bgBlancoTrans {
 	background: rgba(255, 255, 255, 0.1);
+}
+
+
+
+
+/* Call to Action */
+.callAction {           /* Fondo sección */
+	background-image: url(../img/background/city.jpg);
+	width: 100%;
+}
+.contAction {           /* Contenedor texto y botón */
+	margin: 10%;
+}
+.fl {
+	font-size: 1.5em;
+	line-height: 1.8;
+}
+.bg-img-container {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.botonAction {            /* Botón*/
+	padding: 15px 20px 15px 20px;
+	display: inline-block;
+	margin: 7%;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Packages  */
+.title {
+	font-size: 2em;
+}
+.ls {
+	list-style-type: none;
+}
+.ls  {
+	border-right: 1px solid gray;
+}
+
+/* Customer */
+.circle {
+	width: 30%;
+	height: 30%;
+	border-radius: 0.5%;
+}
+
+
+/* Contact */
+.contact {
+	background-image: url(../img/background/contactus.jpg);
 }
