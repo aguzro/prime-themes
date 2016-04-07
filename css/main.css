@@ -160,3 +160,12 @@ header a:hover {
  	color: #0dc0c0; 
 }
 
+/* Footer */ 
+.bg-black {
+	background-color: #222222;
+}
+.pd-2 {
+	padding: 2%;
+}
+
+
