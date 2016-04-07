@@ -104,12 +104,38 @@ header a:hover {
 	margin-left: 6%;
 }
 
-
-
-
-
-
-
+/* PORTAFOLIO */
+.portafolio a {
+	color: #353944;
+	background: white;
+	padding: 8%;
+	display: block;
+	width: 120px;
+}
+.portafolio a:hover {
+	background: #0dc0c0;
+	color: white;
+}
+.portafolio li {
+	display: inline-block;
+}
+.portafolio ul {
+	padding: 2%;
+}
+.bgImg {
+	background: white;
+	box-shadow: 1px 1px 1px #999;
+	padding: 15px;
+	margin: 5px;
+}
+.bgImg p {
+	font-size: 0.9;
+}
+.botonPortafolio {
+	padding: 15px;
+	width: 20%;
+	margin: 2% 40%;
+}
 
 /* Call to Action */
 .callAction {           /* Fondo sección */
