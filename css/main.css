@@ -139,11 +139,8 @@ header a:hover {
 .title {
 	font-size: 2em;
 }
-.ls {
-	list-style-type: none;
-}
-.ls  {
-	border-right: 1px solid gray;
+.bg-green {
+	background-color: #0dc0c0;
 }
 
 /* Customer */
@@ -160,6 +157,7 @@ header a:hover {
 
 
 /* Follow */
+
 
 
 /* Footer */ 
