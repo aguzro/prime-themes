@@ -53,11 +53,11 @@ header a:hover {
 .seccionIconos i {
 	font-size: 3em;
 }
-.seccionIconos h4 {
+.seccionIconos h4, .seccionIconos2 h4 {
 	font-weight: 500;
 	padding-bottom: 2%;
 }
-.seccionIconos p {
+.seccionIconos p, .seccionIconos2 p {
 	font-size: 0.8em; 
 }
 .contIconos {
@@ -75,8 +75,18 @@ header a:hover {
 }
 .moreFeatures img {
 	width: 100%;
-
 }
+
+
+
+
+
+
+
+
+
+
+
 
 /* Call to Action */
 .callAction {           /* Fondo sección */
