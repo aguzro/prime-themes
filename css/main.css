@@ -162,11 +162,21 @@ header a:hover {
 }
 
 /* Packages  */
-.title {
+.title {    /* Clase para títulos varios */
 	font-size: 2em;
 }
 .bg-green {
 	background-color: #0dc0c0;
+}
+.bg-white {
+	background-color: #ffffff;
+}
+.boxPackage {
+	width: 100%
+	margin: 3%;
+}
+.bbP {
+	width: 90%;
 }
 
 /* Customer */
@@ -175,6 +185,7 @@ header a:hover {
 	height: 10%;
 	border-radius: 50%;
 }
+
 /* Contact */
 .contact {
 	background-image: url(../img/background/contactus.jpg);
@@ -188,6 +199,14 @@ header a:hover {
 }
 .boxMessage {
 	height: 100px;
+}
+.btForm {
+	padding: 3%;
+	display: inline-block;
+	margin: 1.2%;
+	background-color: #0dc0c0;
+	border: 0;
+	font-size: 1.2em;
 }
 
 /* Follow */
