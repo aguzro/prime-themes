@@ -173,10 +173,21 @@ header a:hover {
 }
 .boxPackage {
 	width: 100%
-	margin: 3%;
+	margin: 3% 0;
+	padding: 5% 0;
+	font-size: 1.5em;
 }
 .bbP {
 	width: 90%;
+	clear: both;
+	margin: 0 auto;
+}
+.w-70 {
+	width: 70%;
+	margin: 0 auto;
+}
+.pd-7 {
+	padding: 7% 0;
 }
 
 /* Customer */
@@ -210,9 +221,9 @@ header a:hover {
 }
 
 /* Follow */
-
-
-
+.fz {
+	font-size: 2.5em;
+}
 /* Footer */ 
 .bg-black {
 	background-color: #222222;
